@@ -1,4 +1,4 @@
-//import library express.js dan library lain yg diperlukan
+//import module express.js dan module lain yg diperlukan
 const express = require('express');
 const fs = require('fs');
 const validator = require('validator');
